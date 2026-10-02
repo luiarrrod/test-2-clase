@@ -1,2 +1,3 @@
 Hola, este es mi primer fichero usando Git.
 Mi nombre es Luisa Arredondo Rodríguez
+Estoy aprendiendo a utilizar Git.
